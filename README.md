@@ -80,7 +80,7 @@ decisions.
 8. Predictive Models : Predicts the movement of nearby vehicles, pedestrians,
 and cyclists.
 
-**CONCLUSION**
+**RESULT**
 
 Self-driving cars are an important real-world application of AI. They combine
 machine learning, deep learning, computer vision, sensor fusion, and path planning to
